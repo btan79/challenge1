@@ -14,4 +14,4 @@ mvn clean install<br>
 - mvn verify -Dcucumber.filter.tags="@NegativeScenario"
 
 ## Cucumber execution report:
-The test execution report is available at the location <ProjectDir>/target/cucumber-html-reports/report-feature_file-src-test-resources-features-search-feature.html
+The test execution report is available at the location<br> **ProjectDir/target/cucumber-html-reports/report-feature_file-src-test-resources-features-search-feature.html**
